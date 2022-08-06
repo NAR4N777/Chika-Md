@@ -22,9 +22,9 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['62882008384860','62882008384860','62882008384860'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['62882008384860'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '62882008384860' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
@@ -52,7 +52,7 @@ global.sessionName = 'session'
 //terserah mau ubah atau nggak, note : tanda ' gausah di hapus!
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: 1000,
 }
 
 //—————「 Set Image 」—————//
